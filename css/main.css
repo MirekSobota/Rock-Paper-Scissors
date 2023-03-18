@@ -1,0 +1,10 @@
+.main {
+    background: hsl(0, 2%, 91%);
+    max-width: 850px;
+    margin: auto;
+}
+
+.main__header {
+    text-align: center;
+    color:rgb(82, 80, 80)
+}
