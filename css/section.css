@@ -1,9 +1,0 @@
-.section {
-    display: flex;
-    align-items: center;
-    justify-content:space-around;
-}
-
-.section__emoji {
-    font-size: 3em;
-}

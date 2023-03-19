@@ -1,0 +1,23 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    
+   
+}
+
+.form__emoji {   
+    font-size: 3em;
+    margin: 10px;
+    border:none;
+    background: transparent;
+    transition: 0.5s;
+}
+
+.form__emoji:hover {
+    transform: scale(1.2);
+}
+
+.form__emoji:active {
+    transform: rotate(30deg);
+}
