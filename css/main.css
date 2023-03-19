@@ -8,3 +8,15 @@
     text-align: center;
     color:rgb(82, 80, 80)
 }
+
+.section__gameArea {
+    background: white;
+    padding: 50px;
+    display: grid;
+    justify-items: center;
+    
+
+}
+.gameArea {
+    font-size: 3em;
+}
