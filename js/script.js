@@ -51,7 +51,7 @@
 
   const init = () => {
     render();
-
+    newChoice();
     const formElement = document.querySelector(".js-form");
 
     formElement.addEventListener("submit", onSubmit);
